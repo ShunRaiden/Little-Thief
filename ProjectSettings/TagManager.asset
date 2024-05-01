@@ -1,0 +1,55 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - ExitHide
+  - Hide
+  - ObjCanMove
+  - Enemy
+  - Ground
+  - MainQuest
+  - Shop2nd
+  - Audio
+  - Poon
+  - Wood
+  - Paa
+  - Eixt
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Player
+  - Ground
+  - Icon
+  - Arrow
+  - Icon2nd
+  - Shop
+  - Shop2nd
+  - Both
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
